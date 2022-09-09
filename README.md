@@ -1,39 +1,37 @@
-#Spotify Clone Front-End
+# Spotify Clone Front-End
 A front-end clone project of the Spotify web player. The project was created using the create-react-app CLI. The app is currently using a limited number of songs that are uploaded on drive.
 
-#Table of Contents
-•	Description
-•	Features
-•	Motivation
-•	Tech/Framework Used
+# Table of Contents
+•	Description <br />
+•	Features <br />
+•	Motivation <br />
+•	Tech/Framework Used <br />
 
-#Description
-A clone web application using the create-react-app. The app uses Song's data from drive and tries to mimic the UI and front-end behaviours of the official Spotify web player as much as possible.
-24 songs were used in this project.
+# Description
+A clone web application using the create-react-app. The app uses Song's data from drive and tries to mimic the UI and front-end behaviours of the official Spotify web player as much as possible. <br />
 ![3](https://user-images.githubusercontent.com/111369577/189442099-896efbe3-5edc-45c8-a7c9-67e9dde2052d.jpg)
+24 songs were used in this project.
 
-
-
-#Features
-•	The Play/Pause button
-•	Music Player 
-•	The progress bar is synchronised with the currently playing song.
-•	Select a song by clicking on it.
-•	Use the progress bar to change the song’s playing time.
+# Features
+•	The Play/Pause button <br />
+•	Music Player  <br />
+•	The progress bar is synchronised with the currently playing song. <br />
+•	Select a song by clicking on it. <br />
+•	Use the progress bar to change the song’s playing time. <br />
 ![1](https://user-images.githubusercontent.com/111369577/189442265-1a9acefa-a732-4681-9955-a5eb539be3a8.jpg)
 ![1](https://user-images.githubusercontent.com/111369577/189442194-f13f5ba3-e882-4cfb-b39c-c54bde59332e.jpg)
 
-#Motivation
+# Motivation
 This project was created by me mainly to teach myself React development. Since the point of this project was not to make great UI/UX design choices, I chose to create a clone of a well-established product in order to shorten my learning time and not to focus on the wrong thing. Since I am already a heavy Spotify user, I thought it would be an interesting challenge to tackle. 
 The majority of the react components and logic were written from scratch by myself.
 
-#Tech/Framework Used
-•	React (create-react-app CLI)
-•	Html
-•	Css
-•	Java Script
+# Tech/Framework Used
+•	React (create-react-app CLI) <br />
+•	Html <br />
+•	Css <br />
+•	Java Script <br />
 
-#Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
