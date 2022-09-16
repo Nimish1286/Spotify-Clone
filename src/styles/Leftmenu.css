@@ -213,7 +213,7 @@ cursor: pointer;
     top: 0;
     left: 0;
     background: #49e12e;
-    width: 100%;
+    width: 50%;
     height: 100%;
     border-radius: 10px;
     z-index: 2;
@@ -235,7 +235,7 @@ cursor: pointer;
 }
 .tracklist .bottom input::-moz-progress-bar{
     background: #49e12e;
-    width: 100%;
+    width: 50%;
     height: 100%;
     border-radius: 10px;
     z-index: 2;
